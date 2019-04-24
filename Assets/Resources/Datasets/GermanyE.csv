@@ -1,0 +1,9 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2018-05-22T19:54:03.410Z,50.2621,12.4407,10,3.2,ml,,103,0.972,0.57,us,us1000ea82,2018-08-21T21:23:48.040Z,"2km ENE of Luby, Czech Republic",earthquake,2.7,2,0.148,6,reviewed,us,us
+2018-05-21T21:04:42.660Z,50.2985,12.3772,13.92,4.1,mb,,52,0.961,0.88,us,us1000e9k7,2018-08-21T21:23:47.040Z,"2km SSE of Erlbach, Germany",earthquake,2.5,6.3,0.524,1,reviewed,us,us
+2018-05-04T21:36:41.000Z,47.7617,7.5398,15.23,3.1,ml,,68,0.521,1.01,us,us1000dy8q,2018-07-27T20:20:39.040Z,"2km W of Schliengen, Germany",earthquake,2.6,9.7,0.057,40,reviewed,us,us
+2018-02-01T01:47:33.410Z,47.1899,9.9227,5,3.8,ml,,54,0.616,1,us,us1000cdin,2018-04-25T01:39:40.040Z,"4km N of Innerbraz, Austria",earthquake,4,2,0.048,56,reviewed,us,us
+2017-11-03T18:15:41.700Z,47.1867,11.3685,10,3.5,ml,,40,0.946,0.98,us,us2000bhzn,2018-01-24T01:25:07.040Z,"2km NNW of Mieders, Austria",earthquake,3.7,1.1,0.045,64,reviewed,us,us
+2015-04-16T06:38:08.790Z,51.44,12.129,20.6,3.3,ml,,,,1,us,us20002766,2015-06-26T23:15:53.040Z,"1km NE of Grobers, Germany",earthquake,7.8,9.3,,,reviewed,bgrd,bgrd
+2014-05-31T10:37:20.310Z,50.1965,12.4098,10,3.8,mwr,,44,0.918,0.68,us,usc000r9ff,2015-01-29T03:09:17.453Z,"4km NE of Skalna, Czech Republic",earthquake,,1.9,0.063,24,reviewed,us,us
+2014-05-17T16:46:27.000Z,49.7934,8.6319,10,3.6,mwr,,56,1.478,1.38,us,usb000qsmq,2015-01-30T03:36:50.700Z,"2km SE of Pfungstadt, Germany",earthquake,,1.6,0.073,18,reviewed,us,us

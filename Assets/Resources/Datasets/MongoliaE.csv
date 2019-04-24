@@ -1,0 +1,77 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2018-11-14T18:47:20.550Z,43.8533,94.1723,10,4.5,mb,,58,8.872,0.56,us,us1000hrrq,2018-11-29T00:27:49.040Z,"103km SW of Bayan-Ovoo, Mongolia",earthquake,6.5,1.9,0.078,48,reviewed,us,us
+2018-11-09T17:14:15.560Z,47.6441,90.3333,10,4.4,mb,,40,5.545,1.04,us,us1000hpue,2018-11-10T15:08:51.040Z,"39km WSW of Rashaant, Mongolia",earthquake,8.3,1.9,0.075,56,reviewed,us,us
+2018-10-28T11:52:59.680Z,45.1319,99.3557,10,4.2,mb,,154,5.561,1.1,us,us1000hi7j,2018-11-03T06:09:50.040Z,"36km ENE of Bayanbulag, Mongolia",earthquake,15.5,2,0.186,8,reviewed,us,us
+2018-07-30T04:59:29.000Z,45.6604,94.076,10,4.4,mb,,69,8.251,0.78,us,us1000g2kw,2018-10-16T15:34:05.040Z,"25km WNW of Bayangol, Mongolia",earthquake,7.2,1.7,0.071,58,reviewed,us,us
+2018-07-11T01:29:39.660Z,49.9049,87.9689,43.36,4.3,mb,,76,4.493,1.18,us,us2000g1th,2018-10-02T16:40:33.040Z,"34km SW of Chaganuzun, Russia",earthquake,6.5,6.2,0.078,46,reviewed,us,us
+2018-04-14T00:31:27.680Z,45.828,103.7102,14.3,4.1,mb,,118,2.725,0.75,us,us2000e01u,2018-07-07T02:25:22.040Z,"24km E of Shiree, Mongolia",earthquake,8.2,6.6,0.165,10,reviewed,us,us
+2018-03-30T16:05:32.170Z,45.5362,97.6417,10,4.5,mb,,82,6.445,1.06,us,us1000dbg8,2018-06-22T21:32:16.040Z,"34km NW of Talshand, Mongolia",earthquake,6.4,1.8,0.095,32,reviewed,us,us
+2018-03-28T10:17:38.900Z,42.1746,104.5943,10,4,mb,,56,5.801,0.69,us,us2000dv1w,2018-06-22T21:32:12.040Z,"86km SSW of Sangiyn Dalay, Mongolia",earthquake,8.1,2,0.138,14,reviewed,us,us
+2018-03-14T18:14:42.810Z,48.3876,101.4364,10,4.2,mb,,75,3.368,1.09,us,us1000d7hb,2018-06-11T21:53:44.040Z,"16km SSE of Oldziyt, Mongolia",earthquake,10.7,1.9,0.09,34,reviewed,us,us
+2018-02-06T15:57:50.840Z,43.623,102.1351,14.97,4.4,mb,,185,5.16,0.75,us,us2000d39y,2018-05-03T22:15:00.040Z,"32km W of Saynshand, Mongolia",earthquake,14.4,8.6,0.38,2,reviewed,us,us
+2018-02-05T13:13:44.700Z,50.0091,88.8549,18.54,4.4,mb,,75,4.667,0.67,us,us1000cg1m,2018-05-03T22:14:58.040Z,"13km E of Kosh-Agach, Russia",earthquake,9.6,4.2,0.071,57,reviewed,us,us
+2018-01-08T20:11:22.460Z,50.2915,90.1416,15.56,4.3,mb,,63,4.915,0.71,us,us1000c25x,2018-04-03T01:40:23.040Z,"26km WSW of Mugur-Aksy, Russia",earthquake,10.9,6.6,0.098,30,reviewed,us,us
+2017-12-26T12:35:39.340Z,41.8838,87.9146,15.14,4.6,mb,,115,6.351,0.7,us,us1000bwc6,2018-03-17T01:54:35.040Z,"113km E of Yanqi, China",earthquake,11.6,5.3,0.083,43,reviewed,us,us
+2017-12-24T18:41:21.730Z,49.9634,88.0206,10,4.3,mb,,90,4.454,0.84,us,us1000bvql,2018-03-17T01:54:33.040Z,"28km WSW of Chaganuzun, Russia",earthquake,9.3,1.6,0.087,38,reviewed,us,us
+2017-12-02T03:04:59.130Z,43.8657,105.1148,10,4,mb,,255,4.069,0.71,us,us1000bk6z,2018-02-20T09:06:11.040Z,"51km E of Ogoomor, Mongolia",earthquake,10.5,2,0.164,10,reviewed,us,us
+2017-10-18T17:46:02.190Z,50.535,105.2311,10,4.4,mb,,55,2.808,0.82,us,us1000atsv,2018-01-11T02:22:06.040Z,"10km SW of Petropavlovka, Russia",earthquake,4.7,1.9,0.107,25,reviewed,us,us
+2017-08-06T05:27:42.030Z,49.4657,90.6367,10,4.1,mb,,83,5.763,0.56,us,us2000a5bh,2017-10-25T00:37:59.040Z,"28km NW of Hohtolgoy, Mongolia",earthquake,6.7,1.9,0.131,17,reviewed,us,us
+2017-07-24T21:46:39.930Z,41.7168,88.4194,35.22,4.1,mb,,80,6.715,0.81,us,us2000a0jb,2017-10-14T00:19:38.040Z,"148km SSW of Turpan, China",earthquake,9.5,5.2,0.166,10,reviewed,us,us
+2017-07-04T03:34:37.530Z,44.4391,101.4049,13.29,4.5,mb,,59,4.853,0.49,us,us100096js,2017-10-03T00:47:47.040Z,"47km ESE of Hatansuudal, Mongolia",earthquake,10.3,4.8,0.074,53,reviewed,us,us
+2017-06-30T17:10:37.850Z,51.7996,94.0644,10,4.5,mb,,126,5.997,1.14,us,us100095lt,2017-09-27T02:03:20.040Z,"28km WNW of Kyzyl, Russia",earthquake,7.9,1.9,0.108,25,reviewed,us,us
+2017-06-11T14:15:32.360Z,44.5426,101.4007,15.48,4.3,mb,,115,4.781,0.58,us,us20009n0m,2017-08-18T23:13:22.040Z,"45km E of Hatansuudal, Mongolia",earthquake,7,6.1,0.177,9,reviewed,us,us
+2017-01-31T10:28:15.720Z,43.7054,88.3196,29.64,4.5,mb,,121,5.258,0.59,us,us20008jxi,2017-04-27T01:38:39.040Z,"46km ESE of Lucaogou, China",earthquake,8.7,5.4,0.145,14,reviewed,us,us
+2016-12-30T09:42:06.090Z,51.5943,93.0818,10,4.3,mb,,110,5.542,1.06,us,us10007tqs,2017-03-23T22:52:09.040Z,"20km ENE of Shagonar, Russia",earthquake,11.8,1.9,0.133,16,reviewed,us,us
+2016-12-02T22:09:25.900Z,45.0472,100.2461,10,4.5,mb,,55,5.482,0.64,us,us10007egg,2017-03-03T07:05:59.040Z,"36km NNW of Orgon, Mongolia",earthquake,9.1,1.9,0.091,35,reviewed,us,us
+2016-11-03T15:54:16.360Z,41.9284,88.2425,36.53,4.6,mb,,50,6.468,1.25,us,us100073y9,2017-01-24T02:02:16.040Z,"124km SSE of Ewirgol, China",earthquake,6.5,6.5,0.089,38,reviewed,us,us
+2016-10-28T18:58:12.300Z,41.2774,119.7173,15.28,4.6,mb,,80,2.978,0.56,us,us100073qc,2017-01-24T02:02:07.040Z,"14km SSE of Yebaishou, China",earthquake,9.4,4.9,0.173,10,reviewed,us,us
+2016-09-29T04:47:47.870Z,44.9442,100.4736,15.02,4.5,mb,,161,5.013,0.54,us,us20007dh7,2016-12-14T03:17:56.040Z,"23km NNE of Orgon, Mongolia",earthquake,11.4,6.6,0.156,12,reviewed,us,us
+2016-09-20T07:18:14.500Z,49.9969,88.1206,15.89,4.8,mb,,47,4.452,1.32,us,us10006r07,2016-12-12T23:01:32.040Z,"20km SW of Chaganuzun, Russia",earthquake,8,4.4,0.069,65,reviewed,us,us
+2016-09-14T09:32:36.600Z,46.0941,93.7733,16.11,4.9,mb,,39,7.963,0.92,us,us10006pg4,2016-12-07T02:56:15.040Z,"25km SSW of Dzuyl, Mongolia",earthquake,6.3,3.5,0.041,183,reviewed,us,us
+2016-08-20T10:27:30.700Z,43.1764,91.0052,10,4.1,mb,,76,7.158,0.67,us,us10006fdx,2016-11-19T04:58:32.040Z,"152km E of Turpan, China",earthquake,5.5,2,0.15,12,reviewed,us,us
+2016-08-15T23:59:51.510Z,43.6846,89.4285,22.01,4.1,mb,,300,5.921,0.86,us,us10006f34,2016-11-15T02:21:50.040Z,"86km NNE of Turpan, China",earthquake,9.2,10,0.26,4,reviewed,us,us
+2016-07-29T17:50:44.470Z,42.1796,112.3415,29.27,4.1,mb,,62,3.608,0.97,us,us100069rf,2016-10-19T04:51:41.040Z,"66km SSW of Saihan Tal, China",earthquake,5.8,5.9,0.12,19,reviewed,us,us
+2016-07-20T01:41:26.140Z,41.2667,88.4802,32.51,4.5,mb,,98,7.099,0.72,us,us20006g0y,2016-09-17T01:27:51.040Z,"181km ESE of Yanqi, China",earthquake,4.7,6.9,0.127,18,reviewed,us,us
+2016-07-13T06:45:47.880Z,49.9906,89.6987,10,4.8,mb,,62,4.98,1.23,us,us1000636v,2016-09-08T01:50:30.040Z,"14km WSW of Kyzyl-Khaya, Russia",earthquake,7.2,1.6,0.043,171,reviewed,us,us
+2016-06-29T11:46:40.700Z,51.881,95.847,10,4.4,mb,,66,6.983,1.19,us,us200067xy,2016-08-31T03:08:22.040Z,"45km NNE of Saryg-Sep, Russia",earthquake,5.1,1.9,0.098,30,reviewed,us,us
+2016-06-20T13:20:39.470Z,51.4752,90.0872,15.15,4.3,mb,,98,4.049,1.09,us,us200066ie,2016-08-27T02:15:31.040Z,"48km NW of Ak-Dovurak, Russia",earthquake,8.6,5.2,0.138,15,reviewed,us,us
+2016-05-22T09:08:06.020Z,41.6231,120.0612,16.71,4.8,mb,,29,3.361,0.96,us,us10005j7h,2016-08-03T22:33:41.040Z,"33km W of Chaoyang, China",earthquake,6.8,3.6,0.061,83,reviewed,us,us
+2016-05-20T05:22:25.200Z,43.1682,88.4902,10,4.6,mb,,66,5.698,0.72,us,us10005iqn,2016-08-03T22:33:38.040Z,"60km WNW of Turpan, China",earthquake,9.8,1.9,0.105,27,reviewed,us,us
+2016-04-15T15:21:24.860Z,51.3215,90.0108,10,4.8,mb,,86,4.113,0.83,us,us20005ihw,2016-06-27T23:01:38.040Z,"35km NNW of Teeli, Russia",earthquake,5.1,1.9,0.105,28,reviewed,us,us
+2016-03-29T14:57:12.100Z,41.3707,89.3864,21.06,4.8,mb,,53,7.446,0.68,us,us20005d5c,2016-06-10T23:32:56.040Z,"174km S of Turpan, China",earthquake,8.3,4.4,0.045,151,reviewed,us,us
+2016-03-23T03:58:44.630Z,49.8276,98.2585,16.18,4.2,mb,,148,5.73,0.43,us,us20005dbu,2016-06-09T21:41:57.040Z,"39km W of Sharga, Mongolia",earthquake,6.6,6.3,0.264,4,reviewed,us,us
+2016-02-26T16:32:22.390Z,49.9879,91.5876,16.79,4.4,mb,,138,5.763,0.72,us,us10004sxy,2016-05-06T23:34:14.040Z,"13km SSW of Havtsal, Mongolia",earthquake,7.7,5.6,0.106,26,reviewed,us,us
+2015-12-23T19:47:07.240Z,43.8947,87.6872,10,4.8,mb,,51,4.782,0.75,us,us1000493w,2016-03-12T02:29:23.040Z,"8km WNW of Lucaogou, China",earthquake,7.7,1.8,0.055,104,reviewed,us,us
+2015-12-10T14:48:06.380Z,44.6295,100.48,17.55,4.5,mb,,75,5.206,0.88,us,us20004g4x,2016-03-05T01:42:01.040Z,"13km SSE of Orgon, Mongolia",earthquake,7.2,5.4,0.15,13,reviewed,us,us
+2015-11-29T06:36:30.650Z,50.0601,98.0845,10,4.2,mb,,142,3.877,0.97,us,us100042z5,2016-02-25T22:33:00.040Z,"58km WNW of Sharga, Mongolia",earthquake,5.9,1.9,0.2,9,reviewed,us,us
+2015-10-31T11:23:22.230Z,43.4918,89.087,22.33,4.5,mb,,109,5.83,0.71,us,us2000412a,2016-01-30T02:10:59.040Z,"62km N of Turpan, China",earthquake,8.9,5.8,0.124,19,reviewed,us,us
+2015-09-30T09:50:46.170Z,50.085,87.9127,10,4.4,mb,,36,4.315,0.9,us,us10003j2e,2015-12-28T23:08:51.040Z,"27km SSE of Aktash, Russia",earthquake,8.3,1.9,0.098,30,reviewed,us,us
+2015-09-13T07:51:12.080Z,45.0838,91.4293,10,4.8,mb,,49,2.953,0.81,us,us20003j4p,2015-12-12T00:42:50.040Z,"103km SW of Altay sumu, Mongolia",earthquake,5.2,1.8,0.089,39,reviewed,us,us
+2015-09-05T05:00:31.030Z,52.0709,105.9178,14.15,4.5,mb,,112,4.252,0.56,us,us20003gkr,2015-12-05T01:40:27.040Z,"22km W of Istok, Russia",earthquake,9.9,3.4,0.089,37,reviewed,us,us
+2015-09-03T15:30:49.400Z,52.3754,89.7663,14.69,4.5,mb,,33,3.369,0.7,us,us20003fzk,2015-12-05T01:40:24.040Z,"38km SW of Abaza, Russia",earthquake,5.5,4.8,0.078,48,reviewed,us,us
+2015-08-19T11:02:12.600Z,43.8041,87.9819,25.4,4.5,mb,,43,0.2,0.52,us,us100033cu,2015-11-17T00:13:36.040Z,"17km ESE of Lucaogou, China",earthquake,8.3,4.7,0.091,36,reviewed,us,us
+2015-08-10T07:35:25.370Z,41.8392,87.8492,10,5,mb,,36,6.357,0.84,us,us100030q1,2015-11-06T18:06:24.040Z,"108km ESE of Yanqi, China",earthquake,8.1,1.8,0.057,99,reviewed,us,us
+2015-08-03T15:09:33.560Z,48.9305,93.1692,15.82,4.2,mb,,97,7.241,0.65,us,us100033xr,2015-10-30T02:47:46.040Z,"13km NNE of Sharbulag, Mongolia",earthquake,8,4.9,0.176,9,reviewed,us,us
+2015-07-04T21:47:21.230Z,51.8151,96.1483,10,4.2,mb,,212,7.181,0.64,us,us20002z7y,2015-09-30T00:20:56.040Z,"51km NE of Saryg-Sep, Russia",earthquake,6.3,2,0.14,14,reviewed,us,us
+2015-06-24T19:12:55.110Z,41.8266,88.4781,33.7,5,mwb,,40,6.658,0.57,us,us10002lfa,2015-09-01T00:53:56.040Z,"135km SSW of Turpan, China",earthquake,7.8,3.4,0.068,21,reviewed,us,us
+2015-05-24T15:14:57.520Z,50.6849,91.4088,10,4.5,mb,,147,5.197,1.44,us,us10002bxd,2015-07-29T01:35:40.040Z,"40km NNW of Harmod, Mongolia",earthquake,10.2,1.9,0.121,20,reviewed,us,us
+2015-04-13T21:02:19.510Z,43.6504,87.659,27.77,4.3,mb,,69,0.166,0.84,us,us2000269r,2015-06-22T23:19:00.040Z,"17km SSE of Urunchi, China",earthquake,5.6,5,0.119,20,reviewed,us,us
+2015-02-03T22:47:39.040Z,49.7805,87.6117,10,4.6,mb,,39,4.518,0.74,us,usc000tldt,2015-05-02T14:07:05.040Z,"15km ENE of Belyashi, Russia",earthquake,7.3,1.9,0.072,64,reviewed,us,us
+2015-02-01T08:06:48.480Z,43.9251,88.0417,17.48,4.1,mb,,125,0.267,0.42,us,usc000tkpu,2015-05-02T14:06:20.040Z,"20km E of Tiechanggou, China",earthquake,7.1,3.2,0.214,9,reviewed,us,us
+2015-01-09T03:49:21.600Z,51.471,95.8503,10,4,mb,,75,4.865,1.23,us,usc000thrs,2015-04-10T18:56:34.040Z,"17km E of Saryg-Sep, Russia",earthquake,8.8,1.9,0.196,10,reviewed,us,us
+2014-12-05T18:04:21.750Z,51.2803,100.6973,16.49,4.9,mb,,33,1.885,0.91,us,usc000t43q,2015-02-28T02:16:09.040Z,"25km S of Turt, Mongolia",earthquake,6.7,4.3,0.054,112,reviewed,us,us
+2014-11-19T03:14:08.960Z,42.9306,106.6444,14.64,4.3,mb,,129,4.907,0.66,us,usb000t2fu,2015-02-18T03:30:45.040Z,"43km E of Erdenetsogt, Mongolia",earthquake,11.2,6.2,0.307,4,reviewed,us,us
+2014-11-19T03:05:46.980Z,42.8064,105.3671,16.43,4.7,mb,,51,5.08,0.45,us,usc000syqr,2015-02-18T03:30:45.040Z,"19km ESE of Sangiyn Dalay, Mongolia",earthquake,8.1,4.7,0.074,69,reviewed,us,us
+2014-11-19T01:56:48.890Z,42.8021,105.3599,16.08,4.6,mb,,51,5.085,0.78,us,usc000syq7,2015-02-18T03:30:45.040Z,"18km ESE of Sangiyn Dalay, Mongolia",earthquake,7.8,4.2,0.075,66,reviewed,us,us
+2014-10-20T23:52:54.230Z,46.9319,94.3406,16.02,4.1,mb,,62,5.618,0.41,us,usb000ss59,2015-01-15T20:03:36.040Z,"49km SSW of Sayn-Ust, Mongolia",earthquake,8.4,5.3,0.135,16,reviewed,us,us
+2014-10-20T03:57:26.910Z,43.8372,88.3288,30.38,4.6,mb,,64,0.452,0.77,us,usb000sp3n,2015-01-15T20:03:34.040Z,"43km E of Lucaogou, China",earthquake,7.8,4.4,0.078,54,reviewed,us,us
+2014-09-01T20:10:05.780Z,50.9456,103.4884,12.03,4.6,mb,,65,0.742,1.36,us,usb000sbpl,2014-11-29T00:09:24.000Z,"27km N of Bayangol, Russia",earthquake,6.1,5.3,0.206,9,reviewed,us,us
+2014-08-31T04:40:49.450Z,50.4084,90.1704,10,4.2,mb,,79,4.837,0.95,us,usc000s8e1,2014-11-29T00:09:22.000Z,"24km WNW of Mugur-Aksy, Russia",earthquake,5.7,1.9,0.14,22,reviewed,us,us
+2014-08-29T23:05:43.670Z,42.2782,109.5399,16.95,4.4,mb,,38,5.489,0.88,us,usb000sb19,2014-11-29T00:09:20.000Z,"66km NNW of Tongyangdao, China",earthquake,7.7,4.3,0.089,40,reviewed,us,us
+2014-08-04T19:55:56.140Z,44.1342,106.964,15.75,4.3,mb,,37,3.688,0.78,us,usb000s05n,2014-10-29T19:53:00.000Z,"9km NE of UEydzen, Mongolia",earthquake,,4.5,0.109,24,reviewed,us,us
+2014-06-26T21:54:18.980Z,49.8816,88.1221,10,4.2,mb,,68,4.556,1.42,us,usc000rmji,2014-09-26T11:49:39.000Z,"29km SW of Chaganuzun, Russia",earthquake,,1.9,0.115,21,reviewed,us,us
+2014-04-30T06:20:55.880Z,43.0264,94.2631,10,5.3,mb,,46,4.841,0.84,us,usb000q4xj,2014-07-27T21:51:13.000Z,"70km ENE of Hami, China",earthquake,,1.8,0.036,280,reviewed,us,us
+2014-04-18T19:00:33.170Z,50.1846,87.7803,13.69,4,mb,,69,4.188,1.46,us,usb000pqf4,2014-07-04T01:33:44.000Z,"13km SSE of Aktash, Russia",earthquake,,4.8,0.156,11,reviewed,us,us
+2014-04-06T15:07:53.090Z,50.1088,87.7559,16.31,4.8,mb,,38,4.251,0.67,us,usc000p7p8,2014-06-11T06:06:10.000Z,"21km S of Aktash, Russia",earthquake,,3.1,0.061,87,reviewed,us,us
+2014-02-28T08:10:41.660Z,42.773,96.4813,11.84,4.5,mb,,57,6.488,1.37,us,usb000my1i,2014-05-13T21:36:45.000Z,"240km SSE of Bayan-Ovoo, Mongolia",earthquake,,4,0.082,45,reviewed,us,us
+2013-12-11T14:15:25.250Z,52.4269,95.3924,14.87,4.1,mb,,141,2.703,1.31,us,usc000li1c,2014-02-21T23:00:51.000Z,"48km W of Toora-Khem, Russia",earthquake,,5.4,0.158,,reviewed,us,us

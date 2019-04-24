@@ -1,0 +1,71 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2018-06-28T17:35:25.840Z,35.509,-4.2068,10,2.8,ml,,181,3.31,1.2,us,us2000fqna,2018-09-21T16:25:59.040Z,"37km NW of Tirhanimine, Morocco",earthquake,8.8,2,0.091,16,reviewed,us,us
+2018-06-04T22:11:43.740Z,32.5435,-4.5132,10,4.3,mb,,126,0.281,0.95,us,us1000ein5,2018-08-29T16:33:50.040Z,"23km S of Amersid, Morocco",earthquake,9.1,1.9,0.081,43,reviewed,us,us
+2017-07-11T03:18:19.340Z,35.8088,-1.6856,10,4.8,mwr,,46,1.857,0.87,us,us100098pt,2017-10-06T23:56:13.040Z,"62km NNW of Beni Saf, Algeria",earthquake,4.7,1.9,0.066,22,reviewed,us,us
+2017-07-08T10:42:50.160Z,35.9107,-1.6313,10,4.3,mb,,84,1.747,1.22,us,us1000984v,2017-10-03T00:47:54.040Z,"70km NW of El Amria, Algeria",earthquake,7.2,1.9,0.178,9,reviewed,us,us
+2017-07-05T03:27:09.410Z,33.4516,-2.8606,10,4.3,mb,,69,1.597,0.99,us,us100096tl,2017-10-03T00:47:49.040Z,"61km SSE of Debdou, Morocco",earthquake,7.2,1.9,0.153,12,reviewed,us,us
+2017-02-20T07:44:10.090Z,30.2546,-9.8262,10,4.4,mb,,110,3.664,0.56,us,us20008lc6,2017-05-17T01:19:33.040Z,"28km SW of Agadir, Morocco",earthquake,7.4,2,0.179,9,reviewed,us,us
+2016-04-24T15:54:00.960Z,33.5258,-11.4314,13.51,4.6,mb,,62,4.181,0.66,us,us20005lf1,2016-07-08T02:49:20.040Z,"246km NW of Safi, Morocco",earthquake,7.5,4.3,0.063,75,reviewed,us,us
+2016-04-08T07:10:08.020Z,35.5244,-3.7976,10,4.3,mb,,130,2.166,0.81,us,us20005iet,2016-06-21T01:14:03.040Z,"33km NNE of Al Hoceima, Morocco",earthquake,8.6,1.9,0.147,13,reviewed,us,us
+2016-04-05T17:39:02.140Z,35.7225,-3.7432,10,4.2,mb,,124,3.612,1.26,us,us20005hgt,2016-06-17T21:45:38.040Z,"55km NNE of Al Hoceima, Morocco",earthquake,5.9,1.9,0.124,21,reviewed,us,us
+2016-04-02T14:48:04.900Z,35.4893,-3.8335,10,4.2,mb,,128,3.095,0.66,us,us20005gdu,2016-06-17T21:45:06.040Z,"28km NNE of Al Hoceima, Morocco",earthquake,6,1.9,0.264,4,reviewed,us,us
+2016-03-16T23:10:45.330Z,35.6679,-3.5522,10,4.2,mb,,124,2.806,0.46,us,us20005asz,2016-05-21T00:05:34.040Z,"57km N of Boudinar, Morocco",earthquake,9.4,2,0.175,9,reviewed,us,us
+2016-03-16T19:43:08.720Z,35.7179,-3.701,10,4.1,mb,,124,2.862,0.59,us,us20005asy,2016-05-21T00:05:34.040Z,"56km NNE of Al Hoceima, Morocco",earthquake,8.2,1.9,0.261,4,reviewed,us,us
+2016-03-16T16:27:34.440Z,35.2459,-3.7026,10,4.7,mb,,30,2.369,1.05,us,us20005a6s,2016-05-21T00:05:34.040Z,"12km NW of Boudinar, Morocco",earthquake,6.4,1.8,0.062,79,reviewed,us,us
+2016-03-15T04:40:39.110Z,35.6879,-3.634,10,5.2,mww,,30,0.548,0.66,us,us10004xp4,2016-11-10T22:14:32.542Z,"56km NNE of Al Hoceima, Morocco",earthquake,3.2,1.8,,,reviewed,us,us
+2016-03-13T20:54:00.910Z,35.4791,-3.6897,10,4.2,mb,,127,2.265,1.34,us,us20005afn,2016-05-21T00:05:29.040Z,"34km NE of Al Hoceima, Morocco",earthquake,4.8,2,0.176,9,reviewed,us,us
+2016-03-12T15:17:12.030Z,35.6643,-3.5879,10,4.9,mww,,59,2.266,0.62,us,us10004x0y,2016-05-21T00:05:27.040Z,"56km N of Boudinar, Morocco",earthquake,4.2,1.8,,,reviewed,us,us
+2016-03-12T15:04:05.380Z,35.6221,-3.5757,10,4.8,mww,,45,2.291,0.78,us,us10004x0u,2016-05-21T00:05:27.040Z,"51km N of Boudinar, Morocco",earthquake,7.5,1.8,,,reviewed,us,us
+2016-03-11T09:40:21.790Z,35.854,-3.7957,10,4.3,mb,,122,2.043,0.89,us,us200059zf,2016-05-21T00:05:24.040Z,"68km N of Al Hoceima, Morocco",earthquake,4.4,1.9,0.178,9,reviewed,us,us
+2016-03-11T04:19:47.560Z,35.6577,-3.6245,10,4.6,mb,,72,2.856,0.65,us,us20005a01,2016-05-21T00:05:24.040Z,"53km NNE of Al Hoceima, Morocco",earthquake,5.8,1.9,0.165,11,reviewed,us,us
+2016-03-11T04:16:47.910Z,35.6992,-3.5952,10,5,mww,,24,2.248,0.69,us,us10004wp4,2016-05-21T00:05:24.040Z,"59km NNE of Al Hoceima, Morocco",earthquake,6.4,1.7,,,reviewed,us,us
+2016-03-10T23:04:19.370Z,35.7077,-3.6625,10,4.2,mb,,89,2.194,1.05,us,us10004xth,2016-05-16T18:01:51.040Z,"56km NNE of Al Hoceima, Morocco",earthquake,7.6,1.9,0.121,19,reviewed,us,us
+2016-03-09T23:46:07.400Z,35.6773,-3.5733,10,4.8,mb,,30,2.272,0.54,us,us10004wer,2016-05-16T18:01:50.040Z,"58km NE of Al Hoceima, Morocco",earthquake,6.7,1.8,0.045,152,reviewed,us,us
+2016-03-03T11:36:26.230Z,35.4857,-3.7849,10,5,mb,,51,2.193,1.02,us,us10004ubk,2016-05-06T23:34:25.040Z,"29km NNE of Al Hoceima, Morocco",earthquake,5.5,1.4,0.044,169,reviewed,us,us
+2016-02-28T11:03:17.630Z,35.5718,-3.5728,11.72,4.3,mb,,125,2.885,0.55,us,us10004ud0,2016-05-06T23:34:17.040Z,"46km N of Boudinar, Morocco",earthquake,5.1,7.4,0.267,4,reviewed,us,us
+2016-02-23T10:12:32.860Z,35.6949,-3.5641,10,4.7,mb,,81,2.273,0.78,us,us10004rzc,2016-05-03T23:44:18.040Z,"60km NNE of Al Hoceima, Morocco",earthquake,5.6,1.9,0.074,55,reviewed,us,us
+2016-02-23T08:46:01.010Z,35.6866,-3.6285,10,4.8,mb,,45,2.227,0.72,us,us10004ryd,2016-05-03T23:44:18.040Z,"56km NNE of Al Hoceima, Morocco",earthquake,7.3,1.8,0.052,116,reviewed,us,us
+2016-02-22T04:14:30.100Z,35.7366,-3.5222,10,4.6,mb,,74,2.291,0.71,us,us10004rmk,2016-05-03T23:44:16.040Z,"65km N of Boudinar, Morocco",earthquake,7.6,1.8,0.088,39,reviewed,us,us
+2016-02-22T03:46:02.460Z,35.7375,-3.5108,10,5.1,mww,,25,2.3,0.77,us,us10004rmh,2016-11-10T22:13:33.182Z,"65km N of Boudinar, Morocco",earthquake,6.1,1.8,,,reviewed,us,us
+2016-02-08T11:21:43.780Z,35.3652,-3.8782,8.47,4.2,mb,,129,3.207,0.61,us,us20004ypx,2016-04-19T01:33:24.040Z,"14km NNE of Al Hoceima, Morocco",earthquake,8.9,7.6,0.371,2,reviewed,us,us
+2016-02-05T09:04:41.120Z,35.6181,-3.8796,10,4.3,mb,,109,2.861,0.89,us,us20004z1n,2016-04-19T01:33:19.040Z,"41km N of Al Hoceima, Morocco",earthquake,7.7,1.9,0.218,6,reviewed,us,us
+2016-02-05T09:02:59.050Z,35.5909,-3.7731,10,4.4,mb,,135,2.99,0.62,us,us20004z1m,2016-04-19T01:33:19.040Z,"41km NNE of Al Hoceima, Morocco",earthquake,7,2,0.269,4,reviewed,us,us
+2016-02-03T21:27:49.390Z,35.6091,-3.7462,10,4,mb,,111,2.962,1.13,us,us20004y5r,2016-04-14T22:51:42.040Z,"43km NNE of Al Hoceima, Morocco",earthquake,4.2,2,0.172,9,reviewed,us,us
+2016-02-01T23:50:48.860Z,35.4566,-3.8528,10,4.2,mb,,128,2.157,0.84,us,us20004weu,2016-04-14T22:51:39.040Z,"24km NNE of Al Hoceima, Morocco",earthquake,8.3,1.9,0.152,12,reviewed,us,us
+2016-01-29T01:16:20.570Z,35.4263,-3.8032,10,4.1,mb,,130,2.208,1,us,us20004wtz,2016-04-14T22:51:32.040Z,"23km NNE of Al Hoceima, Morocco",earthquake,6.9,1.9,0.197,7,reviewed,us,us
+2016-01-28T19:48:51.250Z,35.452,-3.821,10,4.5,mb,,101,2.182,0.8,us,us20004vbu,2016-04-08T23:06:19.040Z,"25km NNE of Al Hoceima, Morocco",earthquake,3.5,1.8,0.074,53,reviewed,us,us
+2016-01-27T21:57:49.590Z,35.5796,-3.7851,10,4.3,mb,,90,0.708,1.39,us,us20004wc1,2016-04-08T23:06:18.040Z,"39km NNE of Al Hoceima, Morocco",earthquake,4.4,1.7,0.143,14,reviewed,us,us
+2016-01-27T06:32:07.970Z,35.6728,-3.568,10,4.9,mb,,32,2.278,0.89,us,us20004uze,2016-11-10T22:10:18.406Z,"57km NE of Al Hoceima, Morocco",earthquake,6.1,1.8,0.036,270,reviewed,us,us
+2016-01-26T04:35:59.240Z,35.5265,-3.6992,10,4.5,mb,,140,2.238,0.8,us,us20004ult,2016-04-08T23:06:15.040Z,"37km NNE of Al Hoceima, Morocco",earthquake,7.3,1.9,0.1,29,reviewed,us,us
+2016-01-26T01:16:45.990Z,35.4901,-3.9411,1.2,4.1,mwr,,209,3.159,0.62,us,us20004vkl,2016-04-08T23:06:15.040Z,"27km N of Al Hoceima, Morocco",earthquake,7.2,6.2,0.054,33,reviewed,us,us
+2016-01-25T18:17:33.430Z,35.5913,-3.7694,10,4.1,mb,,98,2.158,0.73,us,us10004h4a,2016-04-08T23:06:14.040Z,"41km NNE of Al Hoceima, Morocco",earthquake,8,1.9,0.123,18,reviewed,us,us
+2016-01-25T16:02:43.560Z,35.5363,-3.7839,10,4.3,mb,,127,2.171,0.73,us,us10004h36,2016-04-08T23:06:14.040Z,"35km NNE of Al Hoceima, Morocco",earthquake,5.6,1.8,0.106,25,reviewed,us,us
+2016-01-25T14:52:42.740Z,35.739,-3.5856,10,4.9,mb,,32,2.242,0.58,us,us10004h2m,2016-11-10T22:09:54.447Z,"63km NNE of Al Hoceima, Morocco",earthquake,5.9,1.8,0.037,225,reviewed,us,us
+2016-01-25T11:29:23.070Z,35.4901,-3.7475,21.43,4.4,mb,,228,3.044,0.57,us,us20004vk3,2016-04-08T23:06:14.040Z,"32km NNE of Al Hoceima, Morocco",earthquake,10.7,6.9,0.24,5,reviewed,us,us
+2016-01-25T08:25:06.100Z,35.5453,-3.6703,10,4.7,mb,,96,2.251,0.76,us,us10004h0q,2016-04-08T23:06:14.040Z,"41km NE of Al Hoceima, Morocco",earthquake,7,1.9,0.078,50,reviewed,us,us
+2016-01-25T08:15:29.050Z,35.6955,-3.6741,10,4.1,mb,,114,2.189,0.68,us,us20004vjq,2016-04-08T23:06:14.040Z,"55km NNE of Al Hoceima, Morocco",earthquake,6.8,2,0.37,2,reviewed,us,us
+2016-01-25T07:55:15.780Z,35.4917,-3.8394,10,4.2,mb,,128,2.151,0.52,us,us20004vjn,2016-04-08T23:06:14.040Z,"28km NNE of Al Hoceima, Morocco",earthquake,4.3,1.9,0.373,2,reviewed,us,us
+2016-01-25T06:10:41.960Z,35.5051,-3.8783,10,5.2,mb,,34,2.116,0.71,us,us10004gzj,2016-11-10T22:09:50.394Z,"29km N of Al Hoceima, Morocco",earthquake,5.9,1.8,0.031,343,reviewed,us,us
+2016-01-25T05:54:05.460Z,35.4764,-3.7734,10,5.1,mwr,,32,2.206,0.71,us,us10004gzd,2016-11-10T22:09:49.194Z,"29km NNE of Al Hoceima, Morocco",earthquake,6,1.8,0.063,24,reviewed,us,us
+2016-01-25T05:37:11.890Z,35.4992,-3.8211,10,4.2,mb,,100,2.161,1.05,us,us10004gz8,2016-04-08T23:06:13.040Z,"30km NNE of Al Hoceima, Morocco",earthquake,6.6,1.9,0.176,9,reviewed,us,us
+2016-01-25T05:03:46.300Z,35.6749,-3.7449,10,4.7,mb,,97,2.143,0.98,us,us10004gyu,2016-04-08T23:06:13.040Z,"50km NNE of Al Hoceima, Morocco",earthquake,6.6,1.8,0.065,72,reviewed,us,us
+2016-01-25T04:34:19.170Z,35.6805,-3.723,10,5.3,mb,,37,2.158,0.92,us,us10004gyj,2016-04-08T23:06:13.040Z,"52km NNE of Al Hoceima, Morocco",earthquake,3.3,1.8,0.032,324,reviewed,us,us
+2016-01-25T04:30:55.190Z,35.5953,-3.8166,10,5,mb,,58,2.122,0.79,us,us10004gz3,2016-04-08T23:06:13.040Z,"40km NNE of Al Hoceima, Morocco",earthquake,6.2,1.8,0.071,64,reviewed,us,us
+2016-01-25T04:22:02.730Z,35.6493,-3.6818,12,6.3,mww,,20,2.201,0.92,us,us10004gy9,2017-10-11T21:21:23.299Z,"50km NNE of Al Hoceima, Morocco",earthquake,5.9,1.7,,,reviewed,us,us
+2016-01-21T13:47:19.860Z,35.6247,-3.6499,10,5.1,mwr,,65,2.234,0.85,us,us10004g3i,2016-11-10T22:09:21.305Z,"49km NNE of Al Hoceima, Morocco",earthquake,7.5,1.8,,,reviewed,us,mdd
+2015-03-06T04:01:49.340Z,34.896,-2.8022,5,4.3,mb,,76,0.411,1.05,us,usc000tvft,2015-05-28T00:48:34.040Z,"8km SW of Zaio, Morocco",earthquake,5,1.9,0.161,13,reviewed,us,us
+2015-01-29T04:29:07.430Z,30.2995,-9.6366,16.12,4.1,mb,,85,4.368,0.43,us,usc000tk89,2015-05-02T14:06:08.040Z,"11km WSW of Inezgane, Morocco",earthquake,6.5,6.1,0.197,8,reviewed,us,us
+2014-11-06T17:36:53.020Z,32.8741,-13.17,23.8,3.9,ml,,161,3.75,2.57,us,usc000sv3q,2015-01-31T02:50:05.040Z,"296km E of Camacha, Portugal",earthquake,9.2,8.5,0.256,2,reviewed,mdd,us
+2014-11-03T03:39:39.000Z,34.8594,-11.399,19.99,4.6,mb,,40,3.081,1.29,us,usc000stkj,2015-01-20T09:03:13.040Z,"Madeira Islands, Portugal region",earthquake,5.8,3.9,0.066,70,reviewed,us,us
+2014-11-02T18:32:06.920Z,35.7398,-4.4709,111.35,4.1,mb,,55,0.753,0.97,us,usc000stit,2015-01-20T09:03:12.040Z,"65km ENE of Oued Laou, Morocco",earthquake,4.2,4.2,0.166,11,reviewed,us,us
+2014-10-09T20:21:12.770Z,34.9249,-4.4305,18.67,4.4,mb,,126,2.108,0.99,us,usb000spg9,2015-01-06T23:49:48.040Z,"10km W of Targuist, Morocco",earthquake,8.9,4.6,0.535,2,reviewed,us,us
+2014-08-31T20:14:07.040Z,31.0564,-8.7735,10,4.8,mb,,73,3.341,0.98,us,usc000s8jy,2014-11-29T00:09:23.000Z,"27km WSW of Adassil, Morocco",earthquake,8.5,1.9,0.209,8,reviewed,us,us
+2014-07-31T17:14:23.840Z,34.999,-2.9655,7.5,4.1,mb,,,,0.91,us,usb000ryxq,2014-10-29T19:52:52.000Z,"8km SSW of Selouane, Morocco",earthquake,,4.6,0.14,16,reviewed,mdd,us
+2014-06-02T07:02:09.440Z,35.929,-3.545,0,4.4,mb,,,,0.66,us,usc000ra1b,2014-08-26T01:21:10.000Z,"83km NNE of Al Hoceima, Morocco",earthquake,,1.9,0.219,6,reviewed,mdd,us
+2014-05-14T13:51:49.530Z,33.6607,-4.9973,17.89,4.2,mb,,264,2.903,0.55,us,usb000qm9g,2014-08-09T02:53:42.000Z,"18km NE of Ifrane, Morocco",earthquake,,9.2,0.305,3,reviewed,us,us
+2014-05-12T03:53:19.970Z,32.2895,-6.2519,10,4,mb,,106,3.671,0.57,us,usb000qimc,2014-08-06T00:55:33.000Z,"7km NNE of Isseksi, Morocco",earthquake,,2,0.298,3,reviewed,us,us
+2014-05-01T07:46:26.500Z,34.9512,-10.1239,10,4.2,mb,,300,2.417,1.02,us,usb000q68c,2014-07-27T21:51:14.000Z,"240km NW of El Jadida, Morocco",earthquake,,2,0.529,1,reviewed,us,us
+2014-04-15T07:56:47.070Z,33.6872,-5.1015,10,4.2,mb,,65,1.491,0.92,us,usb000pl10,2014-07-01T02:38:10.000Z,"17km N of Ifrane, Morocco",earthquake,,1.9,0.132,17,reviewed,us,us
+2014-03-14T21:50:56.150Z,33.8008,-4.1299,18.26,4.2,mb,,126,1.061,1.06,us,usc000nnp4,2014-05-16T21:51:41.000Z,"10km SSE of Tazarine, Morocco",earthquake,,6.4,0.152,12,reviewed,us,us
+2014-03-11T12:27:05.040Z,34.2111,-4.9098,10.04,4.6,mb,,76,1.412,0.88,us,usc000n7mb,2014-05-15T02:24:25.000Z,"18km SSW of Bouarouss, Morocco",earthquake,,1.9,0.064,76,reviewed,us,us
+2013-12-16T07:06:20.350Z,35.4835,-7.0328,34.84,4.8,mb,,44,1.187,0.88,us,usc000llcq,2015-01-30T10:13:38.477Z,"85km WNW of Larache, Morocco",earthquake,,4.4,0.057,,reviewed,us,us

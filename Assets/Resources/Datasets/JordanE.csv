@@ -1,0 +1,7 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2018-07-27T08:51:19.030Z,32.8353,35.5216,10,2.9,mb_lg,,110,0.752,0.52,us,us2000gf18,2018-10-09T16:43:26.040Z,"4km N of Tiberias, Israel",earthquake,4.7,2,0.208,6,reviewed,us,us
+2018-07-22T06:41:25.380Z,32.7988,35.6371,10,2.9,mb_lg,,161,0.709,0.73,us,us2000gb36,2018-10-04T14:15:29.040Z,"6km WNW of Fiq, Syria",earthquake,4.8,2,0.228,5,reviewed,us,us
+2018-07-04T19:45:40.040Z,32.7972,35.4438,10,4.7,mb,,69,0.22,0.82,us,us2000fx3m,2018-09-27T14:03:40.040Z,"5km SE of 'Eilabun, Israel",earthquake,5.5,1.9,0.055,101,reviewed,us,us
+2018-07-04T01:50:08.350Z,32.786,35.4363,10,4,mb,,101,0.23,0.99,us,us2000fwfr,2018-09-27T14:03:39.040Z,"6km SSE of 'Eilabun, Israel",earthquake,6.9,2,0.116,20,reviewed,us,us
+2015-07-30T02:39:05.400Z,31.3971,35.4781,13,4.2,mb,,,,0.88,us,us10002w9d,2015-10-30T02:47:36.040Z,"24km NNE of `En Boqeq, Israel",earthquake,2.5,3.4,0.124,18,reviewed,gii,us
+2014-05-24T07:27:30.700Z,30.4765,35.3005,20,4.1,mb,,,,1.37,us,usb000r2f5,2015-01-30T01:00:03.246Z,"24km NW of Petra, Jordan",earthquake,,4.7,0.174,9,reviewed,gii,us

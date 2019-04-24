@@ -1,0 +1,8 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2017-10-12T16:41:08.670Z,41.3563,129.0251,5,2.9,mb_lg,,172,3.286,0.45,us,us1000aqsx,2018-01-09T02:14:57.040Z,"22km NE of Sungjibaegam, North Korea",earthquake,11.9,1.9,0.295,3,reviewed,us,us
+2017-09-23T08:29:16.810Z,41.2958,129.0438,5,3.6,ml,,160,3.344,0.65,us,us2000ati7,2017-12-19T01:54:13.040Z,"21km ENE of Sungjibaegam, North Korea",earthquake,7.8,2,0.148,6,reviewed,us,us
+2017-09-03T03:38:31.810Z,41.334,129.031,0,4.1,ml,,,,0.53,us,us2000aetk,2017-12-07T20:00:06.040Z,"21km ENE of Sungjibaegam, North Korea",collapse,9.5,6.7,0.181,4,reviewed,spec,us
+2017-09-03T03:30:01.760Z,41.3324,129.0297,0,6.3,mb,,10,3.309,0.83,us,us2000aert,2017-12-07T20:00:05.040Z,"21km ENE of Sungjibaegam, North Korea",nuclear explosion,1.4,1.7,0.02,941,reviewed,us,us
+2017-03-23T09:24:11.490Z,39.2695,130.2145,572.51,4,mb,,45,2.553,0.73,us,us10008daf,2017-06-12T19:46:54.040Z,"177km SE of Iwon-up, North Korea",earthquake,11.7,7.2,0.065,62,reviewed,us,us
+2016-09-09T00:30:01.440Z,41.2869,129.0783,0,5.3,mb,,,,0.68,us,us10006n8a,2016-12-07T02:56:06.040Z,"23km ENE of Sungjibaegam, North Korea",nuclear explosion,5.2,1.7,0.023,608,reviewed,spec,us
+2016-01-06T01:30:01.480Z,41.2996,129.0467,0,5.1,mb,,21,3.34,0.83,us,us10004bnm,2017-09-03T04:20:01.133Z,"21km ENE of Sungjibaegam, North Korea",nuclear explosion,6,1.7,0.032,306,reviewed,us,us
